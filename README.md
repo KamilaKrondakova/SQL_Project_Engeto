@@ -55,8 +55,9 @@ Průměrný růst cen všech produktů nebyl nikdy o 10% vyšší než průměrn
 ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 HDP vzrostlo v letech 2007, 2015, 2017 a 2018.
 HDP velmi kleslo  v roce 2009.
+V roce 2007 je výrazný růst HDP i v růstu mezd a cen, které potom výrazně narostly i v následujícím roce. 
 K nárůstu HPD došlo v roce 2015, 2017 a 2018 a mzda i v tomo období roste.
 Ceny výrazně vzrostly pouze v roce 2017. 
-Zhodnocení: Pokles HDP se odráží i v cenách. 
+Zhodnocení: Pokles HDP se odráží i v cenách i ve mzdách. Výška HDP má vliv na změny ve mzdách a cenách potravin. 
 
 
