@@ -1,7 +1,7 @@
 -- Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 
--- Kód 5958 = kód pro mzdy
+
 
 -- vytvoření tabulky t_kamila_krondakova_project_SQL_primary_final 
 
@@ -13,9 +13,7 @@ FROM czechia_price cpri
 WHERE cpri.region_code IS NULL
 GROUP BY cpri.category_code, YEAR(cpri.date_from);
 
-SELECT *
-FROM czechia_price_category cpc
-WHERE name LIKE '%mléko%' OR name LIKE '%chléb%';
+
 
 CREATE OR REPLACE TABLE czechia_payroll_new AS
 	SELECT
